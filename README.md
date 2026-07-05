@@ -3,6 +3,9 @@
 This project predicts yearly customer spending using Machine Learning
 
 
+
+
+
 # Dataset
 
 
@@ -14,6 +17,9 @@ Features:
 Target:
 - Yearly Amount Spent
   
+  
+
+
 
 # Project Structure
 
@@ -31,6 +37,9 @@ ecommerce-customer-spending-prediction/
 
 |-- requirements.txt
 ```
+
+
+
 
 
 # Installation
