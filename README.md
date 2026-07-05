@@ -5,6 +5,7 @@ This project predicts yearly customer spending using Machine Learning
 
 # Dataset
 
+
 Features:
 - Avg. Session Length
 - Time on App
@@ -12,6 +13,7 @@ Features:
 
 Target:
 - Yearly Amount Spent
+  
 
 # Project Structure
 
@@ -30,7 +32,10 @@ ecommerce-customer-spending-prediction/
 |-- requirements.txt
 ```
 
+
 # Installation
+
+
 
 ```bash
 
