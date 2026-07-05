@@ -1,4 +1,4 @@
-# Customer Yearly Spending Prediction
+# E-Commerce Customer Yearly Spending Prediction
 
 This project predicts yearly customer spending using Machine Learning
 
@@ -15,6 +15,7 @@ Target:
 
 # Project Structure
 
+```text
 ecommerce-customer-spending-prediction/
 |
 
@@ -27,13 +28,16 @@ ecommerce-customer-spending-prediction/
 |-- README
 
 |-- requirements.txt
+```
 
 # Installation
+
+```bash
 
 git clone https://github.com/SamiAngo/ecommerce-customer-spending-prediction.git
 
 cd ecommerce-customer-spending-prediction
 
 pip install -r requirements.txt
-
+```
 
