@@ -28,10 +28,12 @@ ecommerce-customer-spending-prediction/
 
 |-- requirements.txt
 
+# Installation
 
 git clone https://github.com/SamiAngo/ecommerce-customer-spending-prediction.git
 
 cd ecommerce-customer-spending-prediction
 
 pip install -r requirements.txt
+
 
